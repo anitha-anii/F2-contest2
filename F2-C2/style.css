@@ -1,0 +1,48 @@
+
+body {
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+  }
+  h2{
+    margin-left: 40px;
+  }
+  .container{
+    margin-left: 30px;
+  }
+  .myform {
+  display: flex;
+  gap:20px;
+  
+  }
+  #professionSelect{
+    background-color: black;
+    color: white;
+    padding: 5px;
+   
+  }
+  #nameInput{
+    background-color: black;
+    color: white;
+  }
+  #ProfessionInput{
+    background-color: black;
+    color: white;
+  }
+  #ageInput{
+    background-color: black;
+    color: white;
+  }
+  
+  #userContainer > div{
+    display: flex;
+    justify-content: space-evenly;
+    gap:20px;
+    border: 1px solid white;
+    margin-left: 10px;
+  }
+  .newdiv{
+    margin: 10px;
+    border-radius: 50px;
+   
+  }
